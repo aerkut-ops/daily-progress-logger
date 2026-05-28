@@ -13,15 +13,27 @@ A simple automation tool for tracking daily learning progress, coding practice, 
 
 ## Folder Structure
 
+```text
+
 daily-progress-logger/
+
 ├── README.md
+
 ├── LICENSE
+
 ├── scripts/
+
 │   └── daily-log.sh
+
 ├── examples/
+
 │   └── daily-log-example.md
+
 └── logs/
+
     └── .gitkeep
+
+```
 
 ## Usage
 
