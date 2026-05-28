@@ -23,6 +23,8 @@ daily-progress-logger/
 │   └── daily-log.sh
 ├── examples/
 │   └── daily-log-example.md
+├── shortcut/
+│   └── daily-progress-logger.shortcut
 └── logs/
     └── .gitkeep
 
